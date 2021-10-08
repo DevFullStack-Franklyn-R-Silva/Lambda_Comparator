@@ -12,7 +12,9 @@ alterar a classe Product.
   
 • Podemos então usar o default method "sort" da interface List:
 default void sort(Comparator<? super E> c)
-
+<p align="left">
+    <img align="center" alt="GIF" src="./product.png" width="150" height="100" />
+</p>
 
 
 ## Comparator
